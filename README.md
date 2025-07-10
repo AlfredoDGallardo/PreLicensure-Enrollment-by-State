@@ -39,9 +39,14 @@ This report provides a comprehensive view of all students currently enrolled in 
 ---
 
 ## 📁 Files
-- Main Excel File
+- <a href="https://github.com/AlfredoDGallardo/PreLicensure-Enrollment-by-State/blob/main/Anonymize_Sample_PreLicensure_Enrollment_By_State.xlsx">Excel File<a/> - Main Excel File
 - Dashboard Screenshots:
-  -
+  - Dashboard Tab 1 ![image](https://github.com/user-attachments/assets/06cb6dea-d0b4-4ffa-8a52-15eb76769f1d)
+ 
+
+  - Dashboard Tab 2 ![image](https://github.com/user-attachments/assets/c7fb918d-e451-4763-8ea1-e613b39d1d28)
+
+
 
 ---
 
